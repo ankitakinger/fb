@@ -1,0 +1,567 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"commentText",
+				"commentText"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bC",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"bacgroun",
+				"background-position"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"b",
+				"background-position"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"abtus",
+				"abtus-top"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"abt",
+				"abtus-top"
+			],
+			[
+				"nav",
+				"nav-fix"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"ani",
+				"animation-delay"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"black",
+				"black-dual-first"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"searc",
+				"search-text"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"alig",
+				"vertical-align"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"video",
+				"video"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"repeat",
+				"repeat-y"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"e",
+				"ultra-expanded"
+			],
+			[
+				"st",
+				"stopPropagation"
+			],
+			[
+				"che",
+				"checkboxDD"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"parse",
+				"parse"
+			],
+			[
+				"togg",
+				"toggleActive"
+			],
+			[
+				"check",
+				"checkbox-btn"
+			],
+			[
+				"u",
+				"ul-toggle"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"lim",
+				"li-mail"
+			],
+			[
+				"data",
+				"data-myid"
+			],
+			[
+				"da",
+				"data-myid"
+			],
+			[
+				"arr",
+				"array1"
+			],
+			[
+				"ch",
+				"checkbox"
+			],
+			[
+				"border-l",
+				"border-left"
+			],
+			[
+				"o",
+				"outline"
+			],
+			[
+				"wor",
+				"word-break"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"top",
+				"text-top"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"border-left",
+				"border-left-color"
+			],
+			[
+				"sp",
+				"letter-spacing"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"col",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ankitakinger/Documents/GitHub/thryve-media/thryve.js",
+		"/C/Users/ankitakinger/Documents/GitHub/thryve-media/thryve.css",
+		"/C/Users/ankitakinger/Documents/GitHub/thryve-media/thryve.html",
+		"/C/xampp/htdocs/fb functions/fblayout.html",
+		"/C/xampp/htdocs/fb functions/fbstyle.scss",
+		"/C/xampp/htdocs/fb functions/fbjscript.jsx",
+		"/C/xampp/htdocs/fb functions/fbcomment.jsx",
+		"/C/Users/ankitakinger/Documents/GitHub/fb functions/fblayout.html",
+		"/C/Users/ankitakinger/Documents/GitHub/fb functions/fbjscript.jsx",
+		"/C/Users/ankitakinger/Documents/GitHub/fb functions/fbcomment.jsx",
+		"/C/Users/ankitakinger/Documents/GitHub/fb functions/fbstyle.scss",
+		"/C/Users/ankitakinger/Documents/GitHub/fb functions/fbjscript.js",
+		"/C/Users/ankitakinger/Documents/GitHub/fb functions/fbstyle.css",
+		"/C/Users/ankitakinger/Documents/New folder/thryve-media/thryve.js",
+		"/C/Users/ankitakinger/Downloads/thryve-media-master/thryve-media-master/thryve.js",
+		"/C/Users/ankitakinger/Downloads/thryve-media-master.zip",
+		"/C/Users/ankitakinger/Documents/react practice/simple_demo.html",
+		"/C/Users/ankitakinger/Documents/react practice/simple_demo.css",
+		"/C/Users/ankitakinger/Documents/gmail website/faltu_keede.js",
+		"/C/Users/ankitakinger/Documents/gmail website/faltu_keede.html",
+		"/C/Users/ankitakinger/Documents/thryve media website/thryve.js",
+		"/C/Users/ankitakinger/Documents/thryve media website/thryve.css",
+		"/C/Users/ankitakinger/Documents/thryve media website/thryve.html",
+		"/C/Users/ankitakinger/Documents/gmail website/gmail.html",
+		"/C/Users/ankitakinger/Documents/gmail website/gml.js",
+		"/C/Users/ankitakinger/Documents/GitHub/website/gmail.html",
+		"/C/Users/ankitakinger/Documents/GitHub/website/web2.css",
+		"/C/Users/ankitakinger/Documents/GitHub/website/gml.js",
+		"/C/Users/ankitakinger/Documents/gmail website/web2.css",
+		"/C/Users/ankitakinger/Desktop/gmail.html",
+		"/C/Users/ankitakinger/Desktop/web2.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
